@@ -1,0 +1,48 @@
+# Compiled source code (e.g. .class, .o, .exe)
+*.class
+*.o
+*.exe
+*.dll
+
+# Temporary files
+*.log
+*.tmp
+*.swp
+*.bak
+
+# Backup files
+*.bak
+*.old
+*.save
+
+# IDE project files (e.g. for VSCode, JetBrains)
+.vscode/
+.idea/
+
+# Python specific (if applicable)
+__pycache__/
+*.py[cod]
+
+# Java specific (if applicable)
+*.jar
+*.war
+*.ear
+
+# C# / .NET specific (if applicable)
+bin/
+obj/
+
+# Node.js specific (if applicable)
+node_modules/
+npm-debug.log
+
+# Screen captures or images
+*.png
+*.jpg
+*.jpeg
+*.gif
+
+#Ignorres the whole folder and all its contents
+/Screen_captures
+# All text files (if you don’t want to track any text files)
+*.txt
